@@ -1,0 +1,4 @@
+EmployeeID,EmployeeFirstName,EmployeeLastName,Role,Salary,SalesCompleted
+21,Susan,Cooper,Executive,20000,5
+22,Cindy,Wadsley,Analyst,35000,30
+23,Ram,Charan,Manager,50000,75
